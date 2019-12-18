@@ -8,6 +8,4 @@ numbers.each do |num|
 #  new_array << 
   
 end
-
-end
 end
