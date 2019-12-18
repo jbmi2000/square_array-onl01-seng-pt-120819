@@ -6,7 +6,7 @@ new_array =[]
 numbers.each do |num|
    new_array << num**2
 #  new_array <<
+end
 
 end
 puts new_array
-end
