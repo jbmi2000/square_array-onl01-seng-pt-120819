@@ -9,4 +9,3 @@ numbers.each do |num|
 end
 
 end
-
