@@ -5,7 +5,7 @@ def square_array(numbers)
 new_array =[]
 numbers.each do |num|
   num**2
-#  new_array << 
-  
+#  new_array <<
+
 end
 end
