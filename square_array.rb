@@ -9,4 +9,4 @@ numbers.each do |num|
 end
 
 end
-puts new_array
+
